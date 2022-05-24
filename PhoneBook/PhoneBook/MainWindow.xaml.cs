@@ -24,5 +24,24 @@ namespace PhoneBook
         {
             InitializeComponent();
         }
+
+        public void Bind() { }
+
+        public void Unbind() { }
+
+        private void btnNew_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnChange_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnDelete_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
